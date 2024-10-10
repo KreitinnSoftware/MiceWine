@@ -6,6 +6,11 @@ MiceWine is a project that aims to run Windows applications and games on Android
 
 It uses a customized build of Wine compiled for Android and Box86/Box64 to run in the best possible way, STILL IN DEVELOPMENT.
 
+Please check newer APK version, this is outdated and no longer supported.
+
+- [MiceWine-Application](https://github.com/KreitinnSoftware/MiceWine-Application)
+- [MiceWine-RootFS-Generator](https://github.com/KreitinnSoftware/MiceWine-RootFS-Generator)
+
 To install the Alpha version use on a clean Termux:
 
 ```bash
